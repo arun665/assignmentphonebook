@@ -1,0 +1,52 @@
+.title{
+    font-size:5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    width:100%;
+    text-align:center;
+    color:rgb(7, 7, 243);
+    
+
+}
+.wrapper{
+    width:100vw;
+}
+.list{
+
+    box-shadow: 20px 20px 20px rgb(139, 131, 131);;
+    background-color:rgb(219, 219, 219);
+    width:60%;
+    margin-left:10%;
+border-radius:25px;;
+padding:5%;
+    font-family: 'Sofia', sans-serif;
+}
+
+dt{
+    text-align: center;
+    background-color: rgb(66, 221, 221);
+    color:blue;
+    font-weight: 800;
+    font-size:30px;
+    margin-top:5%;
+    margin-bottom:5%;
+    
+}
+
+dd{
+    
+    text-align:center;
+    font-size:25px;
+}
+
+.gratitude{
+    font-size:5em;
+    font-family: 'Montserrat', sans-serif;    width:100%;
+    text-align:center;
+
+}
+
+.gratitude span{
+color:blue;
+
+}
