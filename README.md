@@ -3,4 +3,4 @@
 
 netlify app link
 
-https://60faf97c6b3dff346c55bb8e--sharp-borg-d44344.netlify.app/
+https://60feedf3e9080311b982cf92--sharp-borg-d44344.netlify.app/
